@@ -1,0 +1,9 @@
+Python can be used for:
+AI and machine learning.
+Data analytics.
+Data visualisation.
+Programming applications.
+Web development.
+Game development.
+Language development.
+Finance.
